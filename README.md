@@ -139,19 +139,19 @@ Deal-Intelligence-Copilot/
 
 ### Home Screen
 
-![Home](screenshots/home_screen)
+![Home](screenshots/home_screen.jpg)
 
 ### Deal Summary
 
-![Summary](screenshots/deal_summary)
+![Summary](screenshots/deal_summary.png)
 
 ### Valuation Analysis
 
-![Strategy](screenshots/valuation_summary)
+![Strategy](screenshots/valuation_summary.png)
 
 ### Investment Committee Memo
 
-![IC](screenshots/investment_committee)
+![IC](screenshots/investment_committee.png)
 
 # Running the Project
 
