@@ -135,6 +135,23 @@ Deal-Intelligence-Copilot/
 ```
 
 ---
+## Application Preview
+
+### Home Screen
+
+![Home](screenshots/home_screen)
+
+### Deal Summary
+
+![Summary](screenshots/deal_summary)
+
+### Valuation Analysis
+
+![Strategy](screenshots/valuation_summary)
+
+### Investment Committee Memo
+
+![IC](screenshots/investment_committee)
 
 # Running the Project
 
