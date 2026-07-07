@@ -139,7 +139,7 @@ Deal-Intelligence-Copilot/
 
 ### Home Screen
 
-![Home](screenshots/home_screen.jpg)
+![Home](screenshots/home_screen.png)
 
 ### Deal Summary
 
